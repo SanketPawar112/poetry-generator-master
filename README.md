@@ -4,7 +4,7 @@ This program works on the basis that every word in the English language is eithe
 
 All the syntax and word choices are in the `brain.yaml` file (more info about this below).
 
-Try the [demo here](http://www.poetrygenerator.ninja).
+
 
 # Docker
 
